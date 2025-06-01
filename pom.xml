@@ -24,7 +24,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.56</version> <!-- Updated to a version without known security vulnerabilities -->
+            <version>9.0.105</version> <!-- Updated to a version without known security vulnerabilities -->
         </dependency>
 
         <!-- Spring Framework WebMVC -->
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-tomcat</artifactId>
-            <version>2.5.8</version> <!-- Updated to the latest stable version -->
+            <version>3.3.7</version> <!-- Updated to the latest stable version -->
         </dependency>
 
         <!-- Spring Expression -->
