@@ -17,7 +17,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.5.8</version> <!-- Updated to the latest stable version -->
+            <version>2.6.0</version> <!-- Updated to the latest stable version -->
         </dependency>
 
         <!-- Tomcat Embedded -->
@@ -38,7 +38,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.1.0.Final</version> <!-- Updated to the latest version -->
+            <version>6.2.0.Final</version> <!-- Updated to the latest version -->
         </dependency>
 
         <!-- Spring Web -->
@@ -74,7 +74,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.12.4</version>
+            <version>2.13.0</version>
         </dependency>
 
         <!-- Logback Classic for logging -->
